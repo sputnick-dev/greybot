@@ -1,6 +1,6 @@
 # greybot as command-line
 
-This is designed to send advices to internet users who ask questions on the #bash topic, like #bash@freenode back in the days, now #bash@libera.chat, but most for the web using this fork.
+This is designed to send advices to internet users who ask questions on the #bash topic, like #bash@freenode back in the days, now #bash@libera, but most for the web using this fork.
 
 Some commands are already modified in markdown, some not. Feel free to contribute if you are interested.
 
