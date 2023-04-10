@@ -1,3 +1,4 @@
 `expr` is a program used in ancient shell code to do math.
+This syntax has been obsolete for a few decades.
 In Posix shells like bash, use `$(( expression ))`.
-In bash, ksh88+, mksh/pdksh, or zsh, you can also use `(( expression ))`
+In bash, ksh85+, mksh/pdksh, or zsh, you can also use `(( expression ))`
