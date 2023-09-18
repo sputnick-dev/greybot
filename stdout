@@ -1,1 +1,13 @@
-Standard Output is the primary file descriptor to which commands print to the terminal. See !stderr !stdin and !redirtut for more info.
+`STDERR`:
+
+> This is the secondary file descriptor to which commands print to the terminal. It's meant for messages that shouldn't be parsed by default. Redirect to stderr: `>&2`
+
+
+`STDIN`:
+
+> Standard Input is the file descriptor from which commands can read input.
+
+
+`STDOUT`
+
+> This is the primary file descriptor to which commands print to the terminal.
